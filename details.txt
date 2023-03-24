@@ -1,2 +1,4 @@
 I want to read a lot of books.
 I want to take part in hackathons.
+
+I want to learn AI and ML.
